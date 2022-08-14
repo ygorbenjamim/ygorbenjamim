@@ -1,6 +1,6 @@
 ### Oi, eu sou o Ygor 👋
 
-- 🔭 Atualmente trabalho como analista de sistemas ERP na área de sustentação.
+- 🔭 Atualmente trabalho como desenvolvedor Front End.
 - 🌱 Estudo várias linguagens como Python, Java, Javascript, C++, entre outras. Como todo bom programador.
 - ✨ Tenho alguns projetos desenvolvidos em React e React Native postados no git. Fique avontade para visitá-los.
 
