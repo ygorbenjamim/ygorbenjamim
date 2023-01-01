@@ -1,4 +1,4 @@
-### Oi, eu sou o Ygor 👋
+### Oi, eu sou o Ygor Benjamim 👋
 
 - 🔭 Atualmente trabalho como desenvolvedor Front End.
 - ✨ Tenho alguns projetos desenvolvidos em React e React Native postados no git. Fique avontade para visitá-los.
