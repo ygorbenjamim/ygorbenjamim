@@ -1,7 +1,7 @@
 ### Oi, eu sou o Ygor Benjamim 👋
 
 - 🔭 Atualmente trabalho como desenvolvedor Front End.
-- ✨ Tenho alguns projetos desenvolvidos em React e React Native postados no git. Fique avontade para visitá-los.
+- ✨ Tenho alguns projetos desenvolvidos em React e React Native postados no Github. Fique avontade para visitá-los.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygorbenjamim&show_icons=true&theme=dracula)
 
